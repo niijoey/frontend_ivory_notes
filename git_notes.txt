@@ -1,1 +1,2 @@
 git-init: This command creates an empty Git repository - basically a .git directory with subdirectories for objects , refs/heads , refs/tags , and template files.
+git-status: The git status command displays the state of the working directory and the staging area.
