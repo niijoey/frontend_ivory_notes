@@ -2,3 +2,4 @@ Git-init: This command creates an empty Git repository - basically a .git direct
 Gitit-status: The git status command displays the state of the working directory and the staging area.
 Git add : This command can be performed multiple times before a commit. It only adds the content of the specified file(s) at the time the add command is run.
 Git commit: The git commit command captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project.
+Git Log: By default, with no arguments, git log lists the commits made in that repository in reverse chronological order; that is, the most recent commits show up first.
